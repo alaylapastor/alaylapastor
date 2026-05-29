@@ -90,4 +90,4 @@ Aqui você vai encontrar um pouquinho da minha evolução, aprendizados e experi
 
 ### 📈 Contribuições
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alaylapastor&bg_color=000000&color=AB63F2&line=AB63F2&point=F2F2F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph&include_all_contribuitions=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alaylapastor&bg_color=000000&color=AB63F2&line=AB63F2&point=F2F2F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

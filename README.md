@@ -1,6 +1,6 @@
 # Layla Pastor 👩‍💻
 
-**`Estudante de Análise e Desenvolvimento de Sistemas 1/4`**
+**`Estudante de Análise e Desenvolvimento de Sistemas 1/4 🚀`**
 
 ✨ Olá, seja muito bem-vindo(a) ao meu perfil GitHub!
 

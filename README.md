@@ -115,3 +115,18 @@ Aqui você vai encontrar um pouquinho da minha evolução, aprendizados e experi
 ### 📈 Contribuições
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alaylapastor&bg_color=000000&color=AB63F2&line=AB63F2&point=F2F2F2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+---
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaylapastor/alaylapastor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alaylapastor/alaylapastor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alaylapastor/alaylapastor/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+</div>

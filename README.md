@@ -29,6 +29,14 @@ Aqui você vai encontrar um pouquinho da minha evolução, aprendizados e experi
 
 <img 
     align="left"
+    alt="Power Automate"
+    title="Power automate"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://res.cdn.office.net/midgard/versionless/fluentui-resources/4.0.4/assets/brand-icons/product/svg/powerautomate_24x1.svg"
+/>
+<img 
+    align="left"
     alt="Visual Studio Code logo: a blue infinity-like symbol representing the code editor"
     title="Visual Studio Code"
     width="30px"
@@ -70,6 +78,14 @@ Aqui você vai encontrar um pouquinho da minha evolução, aprendizados e experi
 />
 <img 
     align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  
+/>
+<img 
+    align="left"
     alt="SQLite logo: a blue database icon with feather-like design, representing the lightweight SQL database engine"
     title="SQLite"
     width="30px"
@@ -83,6 +99,14 @@ Aqui você vai encontrar um pouquinho da minha evolução, aprendizados e experi
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+/>
+<img 
+    align="left"
+    alt="SQL Server"
+    title="SQL Server"
+    width="30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 
 <br/>

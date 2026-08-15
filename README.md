@@ -1,12 +1,12 @@
 # Layla Pastor 👩‍💻
 
-**`Estudante de Análise e Desenvolvimento de Sistemas 2/4 🚀`**
+**`Administração & Tecnologia | Bacharel em Administração | Estudante de Análise e Desenvolvimento de Sistemas 2/4 | Foco em Automação, Processos, Dados e Soluções para Negócios`**
 
 ✨ Olá, seja muito bem-vindo(a) ao meu perfil GitHub!
 
-Me chamo **Layla**, tenho 24 anos e sou natural de São Paulo. Sou formada em **Administração** e atualmente estou iniciando uma nova jornada no mundo da tecnologia como estudante do segundo semestre de **Análise e Desenvolvimento de Sistemas**. 🚀
+Profissional formada em Administração e estudante de Análise e Desenvolvimento de Sistemas, apaixonada por unir negócios e tecnologia para gerar impacto positivo. Minha experiência na Vivo despertou o interesse por análise de dados, automação de processos e desenvolvimento de soluções voltadas ao negócio, especialmente para apoiar a área comercial na tomada de decisões e ganho de eficiência.
 
-Aqui você vai encontrar um pouquinho da minha evolução, aprendizados e experiências nesse complemento de carreira — cada projeto representa um passo importante nessa trajetória que estou construindo com muita dedicação e curiosidade.
+Busco constantemente expandir meus conhecimentos para me tornar uma profissional multidisciplinar, com visão estratégica, capacidade analítica e domínio técnico. Tenho como valores a colaboração, sustentabilidade, diligência e o equilíbrio entre vida pessoal e profissional, sempre guiada pela curiosidade e pelo aprendizado contínuo.
 
 <p align="left">
     <a href="https://github.com/alaylapastor?tab=followers">
